@@ -1,22 +1,12 @@
-import time
-import requests
-import config
 
-GOOGLE_API_URL = """https://maps.googleapis.com/maps/api/geocode/json"""
-MY_API_KEY = get_config()['api_key']
+def geocoding_from_location(location, delay=0.05):
+    # lat, long are in parentheses at end of string
+    coords = location.rpartition('(')[2].partition(')')
 
+    def post_process_coord(coord):
+        coord = coord.strip()
+        coord = int(coord)
+        return coord
 
-def geocoding_from_address(full_address, delay=0.05):
-    if delay: # let's not anger Google
-        time.sleep(delay)
-
-    full_address = full_address.replace(' ', '+')
-    url = '{}?address={}&key={}'.format(GOOGLE_API_URL,
-                                        full_address,
-                                        MY_API_KEY)
-    geocoding_json = requests.get(url)
-    return geocoding_json
-
-
-def lat_long_from_geocoding(geocoding_json):
-
+    latitude, longitude = coords.split(',').map(post_process_coord)
+    return latitude, longitude

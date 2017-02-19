@@ -1,1 +1,3 @@
 *.yaml
+config.py
+*.ipynb
