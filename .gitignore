@@ -5,3 +5,5 @@ config.py
 *.tsv
 .ipynb_checkpoints/*
 *.pyc
+*.ipynb
+!Model.ipynb

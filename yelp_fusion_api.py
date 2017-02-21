@@ -1,3 +1,10 @@
+"""
+Code for interacting with Yelp search API.
+
+Most is shamelessly stolen from
+https://github.com/Yelp/yelp-fusion/tree/master/fusion/python
+"""
+
 import requests
 import numpy as np
 import yaml
@@ -77,8 +84,13 @@ def request(host, path, bearer_token, url_params=None, verbose=False):
 
 
 def search_by_zipcode(bearer_token, zipcode,
-                      term='Grocery', page=0,
+                      term, page=0,
                       results_per_page=50):
+    """
+    Get Yelp results for a single page, searching by zipcode.
+
+    zipcode is either a string or an integer
+    """
     url_params = {
         'term': term,
         'location': str(zipcode),
@@ -89,8 +101,9 @@ def search_by_zipcode(bearer_token, zipcode,
 
 
 def emit_all_by_zipcode(bearer_token, zipcode,
-                        term='Grocery', max_results=150,
+                        term, max_results=200,
                         results_per_page=50, delay=1):
+    """Generator for all Yelp results for a search (up to max_results)."""
     pages = int(np.ceil(max_results / results_per_page))
     for page in range(pages):
         res = search_by_zipcode(bearer_token, zipcode, term,
@@ -100,8 +113,9 @@ def emit_all_by_zipcode(bearer_token, zipcode,
 
 
 def emit_all(bearer_token, zipcodes,
-             term='Grocery', max_results=150,
+             term, max_results=200,
              results_per_page=50, delay=1):
+    """Generator for all Yelp results for a search in all zipcodes."""
     for zipcode in zipcodes:
         yield from emit_all_by_zipcode(bearer_token, zipcode, term,
                                        max_results, results_per_page, delay)
