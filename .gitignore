@@ -1,3 +1,7 @@
 *.yaml
 config.py
-*.ipynb
+*.csv
+*.txt
+*.tsv
+.ipynb_checkpoints/*
+*.pyc
