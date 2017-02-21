@@ -7,7 +7,7 @@ https://github.com/Yelp/yelp-fusion/tree/master/fusion/python
 
 import requests
 import numpy as np
-import yaml
+import config
 import time
 from urllib.parse import quote
 from urllib.parse import urlencode
@@ -16,7 +16,7 @@ from urllib.parse import urlencode
 # OAuth credential placeholders that must be filled in by users.
 # You can find them on
 # https://www.yelp.com/developers/v3/manage_app
-CONFIG = yaml.load(open('config.yaml', 'r'))['yelp']
+CONFIG = config.load_config()['yelp']
 CLIENT_ID = CONFIG['CLIENT_ID']
 CLIENT_SECRET = CONFIG['CLIENT_SECRET']
 
