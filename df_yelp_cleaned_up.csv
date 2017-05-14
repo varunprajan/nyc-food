@@ -1,0 +1,532 @@
+,address,categories,latitude,longitude,name,zipcode,Zip Code,Neighborhood
+0,"675 6th Ave, New York, NY 10010","{'beer_and_wine', 'grocery'}",40.7421188,-73.993988,Trader Joe's,10010,10010,Gramercy
+1,"766 Sixth Avenue, New York, NY 10010","{'healthmarkets', 'grocery'}",40.7443982,-73.9914884,Fairway Market,10010,10010,Gramercy
+2,"200 5th Ave, New York, NY 10010","{'cafes', 'italian', 'grocery'}",40.74195877796,-73.989716662832,Eataly,10010,10010,Gramercy
+3,"765 Ave of the Americas, New York, NY 10010","{'delis', 'grocery', 'sandwiches'}",40.7446477832397,-73.9918148517609,Sunac Fancy Food,10010,10010,Gramercy
+4,"278 Park Avenue South, New York, NY 10010",{'grocery'},40.739523125305,-73.987126781328,Morton Williams,10010,10010,Gramercy
+5,"384 2nd Ave, New York, NY 10010","{'delis', 'grocery', 'sandwiches'}",40.7374085,-73.9812259,Gramercy Food Market,10010,10010,Gramercy
+6,"341 3rd Avenue, New York, NY 10010",{'grocery'},40.7402000427246,-73.9817352294922,D'Agostino,10010,10010,Gramercy
+7,"252 3rd Ave, New York, NY 10010","{'markets', 'grocery'}",40.7373962402344,-73.9845428466797,Eden Farm,10010,10010,Gramercy
+8,"311 East 23rd Street, New York, NY 10010",{'grocery'},40.7378,-73.98016,Morton Williams,10010,10010,Gramercy
+9,"71 Lexington Ave, New York, NY 10010",{'grocery'},40.7410812,-73.983429,New York Deli & Grocery 71,10010,10010,Gramercy
+10,"178 5th Ave, Ste A, New York, NY 10010","{'delis', 'grocery', 'convenience'}",40.741283416748,-73.9901809692383,City Market Cafe,10010,10010,Gramercy
+11,"400 East 23rd St, New York, NY 10010",{'grocery'},40.7365168094685,-73.9782737195492,Gracefully,10010,10010,Gramercy
+12,"355 1st Ave, New York, NY 10010",{'grocery'},40.7355317,-73.9797249,Gristedes,10010,10010,Gramercy
+13,"25 Waterside Plz & FDR Dr, New York, NY 10010",{'grocery'},40.737699820368,-73.9737716254143,Gristedes,10010,10010,Gramercy
+14,"26th St and 3rd Ave, Manhattan, NY 10010",{'grocery'},40.740729868412,-73.9817599207163,Red Pepper,10010,10010,Gramercy
+15,"38 W 32nd Street, New York, NY 10001",{'grocery'},40.74785,-73.98739,H Mart,10001,10001,West Midtown
+16,"250 7th Ave, New York, NY 10001","{'gourmet', 'coffee', 'grocery'}",40.74499,-73.99522,Whole Foods Market,10001,10001,West Midtown
+17,"838 Ave Of The Americas, New York, NY 10001","{'delis', 'diyfood', 'grocery'}",40.7467658,-73.9899617,Sun Sweet Fresh Market,10001,10001,West Midtown
+18,"317 9th Ave, New York, NY 10001",{'grocery'},40.7498719,-73.999261,Ideal Market Place,10001,10001,West Midtown
+19,"155 W 29 St, Manhattan, NY 10001","{'delis', 'grocery', 'sandwiches'}",40.7477417,-73.9920731,Guru's Deli & Grocery,10001,10001,West Midtown
+20,"460 W 34th St, New York, NY 10001","{'delis', 'grocery'}",40.7540512084961,-73.9989776611328,Food Depot Gourmet Deli,10001,10001,West Midtown
+21,"876 Ave of the Americas, New York, NY 10001",{'grocery'},40.74787,-73.98884,876 Market Deli,10001,10001,West Midtown
+22,"307 W 26th St, New York, NY 10001",{'grocery'},40.7474472,-73.9972898,Gristedes,10001,10001,West Midtown
+23,"403 8th Ave, New York, NY 10001",{'grocery'},40.7499008,-73.9955292,Eight Ave Gourmet Market,10001,10001,West Midtown
+24,"234 5th Ave, New York, NY 10001","{'diners', 'grocery'}",40.7443351745605,-73.9880447387695,Naturally Tasty,10001,10001,West Midtown
+25,"250 10th Ave, New York, NY 10001",{'grocery'},40.748577,-74.003173,London Terrace Grocer,10001,10001,West Midtown
+26,"231 9th Ave, New York, NY 10001",{'grocery'},40.7474186,-74.0008392,Chelsea Terrace Supermarket,10001,10001,West Midtown
+27,"403 8th Ave, N/W Corner 30th St, Manhattan, NY 10001",{'grocery'},40.749881,-73.995559,8th Ave Gourmet,10001,10001,West Midtown
+28,"606A W 28th St, New York, NY 10001","{'beer_and_wine', 'grocery'}",40.7520093,-74.0050614,Manhattan Wine Company,10001,10001,West Midtown
+29,"35 W 31st St, New York, NY 10001","{'grocery', 'convenience'}",40.7474289,-73.9875031,Western Union,10001,10001,West Midtown
+30,"249 Grand, New York, NY 10001",{'grocery'},40.7180290222168,-73.9941635131836,Haisein Co,10001,10001,West Midtown
+31,"245 W 29th St Lbby, New York, NY 10001",{'grocery'},40.7502403259277,-73.9969635009766,Marketplace,10001,10001,West Midtown
+32,"200 E 32nd St, New York, NY 10016","{'healthmarkets', 'beer_and_wine', 'grocery'}",40.7440223693848,-73.9789581298828,Trader Joe's,10016,10016,Murray Hill
+33,"135 Lexington Ave, New York, NY 10016",{'grocery'},40.743068,-73.981842,Spice Corner,10016,10016,Murray Hill
+34,"58 E 34th St, New York, NY 10016","{'irish_pubs', 'grocery', 'pubs'}",40.7473817899278,-73.9822447083109,The Long Hall Irish Pub & Grocery,10016,10016,Murray Hill
+35,"550 2nd Ave, New York, NY 10016","{'healthmarkets', 'grocery'}",40.74268,-73.97677,Fairway Market,10016,10016,Murray Hill
+36,"1 E 28th St, New York, NY 10016",{'grocery'},40.7446899,-73.986969,28 St Nader Food Market,10016,10016,Murray Hill
+37,"578 3rd Ave, New York, NY 10016",{'grocery'},40.74852,-73.97631,D'Agostino,10016,10016,Murray Hill
+38,"460 3rd Ave, New York, NY 10016",{'grocery'},40.7442216,-73.9794107,Gristedes,10016,10016,Murray Hill
+39,"425 3rd Ave, New York, NY 10016",{'grocery'},40.7429122924805,-73.9797515869141,Future Village Farm,10016,10016,Murray Hill
+40,"128 E 28th St, New York, NY 10016",{'grocery'},40.7426261901855,-73.9829940795898,Little India Stores,10016,10016,Murray Hill
+41,"322 E 34th St, New York, NY 10016",{'grocery'},40.7440643310547,-73.9749069213867,34 Midtown Deli,10016,10016,Murray Hill
+42,"561 2nd Ave, New York, NY 10016",{'grocery'},40.7428138,-73.9775072,561 Deli & Grocery,10016,10016,Murray Hill
+43,"605 2nd Ave, New York, NY 10016","{'delis', 'grocery'}",40.744377,-73.976532,Elly's Deli,10016,10016,Murray Hill
+44,"431-39 W 37th St, New York, NY 10018",{'grocery'},40.7560314646358,-73.9965141316671,Brooklyn Fare,10018,10018,West Midtown
+45,"529 9th Ave, New York, NY 10018","{'grocery', 'meats'}",40.756888094344,-73.9939800649881,Big Apple Meat Market,10018,10018,West Midtown
+46,"1017 6th Ave, New York, NY 10018","{'delis', 'diyfood', 'grocery'}",40.75232,-73.98627,Bryant Market,10018,10018,West Midtown
+47,"480 10 Ave, New York, NY 10018","{'grocery', 'convenience'}",40.7561906,-73.997773,37th St Deli Food Market,10018,10018,West Midtown
+48,"572 8th Avenue, New York, NY 10018",{'grocery'},40.7547569,-73.9913864,Rainbow Gourmet Deli,10018,10018,West Midtown
+49,"455 W 37th St, New York, NY 10018",{'grocery'},40.7562370598316,-73.9970364421606,Jenny's Marketplace,10018,10018,West Midtown
+50,"468-470 9th Ave, New York, NY 10018",{'grocery'},40.75468,-73.99497,Sugar Deli Food Center,10018,10018,West Midtown
+51,"480 9th Ave, New York, NY 10018",{'grocery'},40.755058,-73.994766,AM-PM Deli Grocery,10018,10018,West Midtown
+52,"1095 6th Ave, New York, NY 10018","{'healthmarkets', 'coffee', 'grocery'}",40.75465,-73.98476,Whole Foods Market,10018,10018,West Midtown
+53,"543 Ninth Ave, New York, NY 10018",{'grocery'},40.75735,-73.99364,International Grocery & Meat,10018,10018,West Midtown
+54,"533 9th Ave, New York, NY 10018",{'grocery'},40.7570152282715,-73.9939956665039,M T Food Store,10018,10018,West Midtown
+55,"472 9th Ave Frnt, New York, NY 10018",{'grocery'},40.754764,-73.994903,Stiles Farmers Market,10018,10018,West Midtown
+56,"162 W 23rd St, New York, NY 10011","{'markets', 'bakeries', 'grocery'}",40.7437305097859,-73.9951793677063,Garden of Eden Marketplace,10011,10011,Chelsea Greenwich Village
+57,"75 9th Ave, New York, NY 10011",{'grocery'},40.7423745776035,-74.0058984480349,The Filling Station,10011,10011,Chelsea Greenwich Village
+58,"194 8th Ave, Manhattan, NY 10011",{'grocery'},40.7431335449219,-73.9996566772461,Chelsea Food Mart,10011,10011,Chelsea Greenwich Village
+59,"498 6th Ave, New York, NY 10011","{'delis', 'importedfood', 'grocery'}",40.736282,-73.9972,Dainobu,10011,10011,Chelsea Greenwich Village
+60,"77 7th Ave, New York, NY 10011","{'grocery', 'catering'}",40.73885,-73.99924,Westside Market,10011,10011,Chelsea Greenwich Village
+61,"300 W 22nd St, New York, NY 10011",{'grocery'},40.7446071410021,-73.9992499351501,Foragers Market,10011,10011,Chelsea Greenwich Village
+62,"80 7th Ave, New York, NY 10011","{'delis', 'grocery', 'catering'}",40.7395,-73.9992199,"L & M Deli, Catering, and Grocery",10011,10011,Chelsea Greenwich Village
+63,"410 Ave Of The Americas, New York, NY 10011","{'gourmet', 'grocery', 'vegan'}",40.733795,-73.999076,Lifethyme,10011,10011,Chelsea Greenwich Village
+64,"225 9th Ave, Manhattan, NY 10011",{'grocery'},40.7470075786114,-74.0010188519955,Gristede's Supermarket,10011,10011,Chelsea Greenwich Village
+65,"221 8th Ave, New York, NY 10011",{'grocery'},40.7442686,-73.9994192,Gristedes,10011,10011,Chelsea Greenwich Village
+66,"4 W 18th St, New York, NY 10011","{'grocery', 'convenience'}",40.7386436462402,-73.9926834106445,Sunac Natural Foods,10011,10011,Chelsea Greenwich Village
+67,"519 Ave of the Americas, New York, NY 10011",{'grocery'},40.737155,-73.997322,Century Market,10011,10011,Chelsea Greenwich Village
+68,"110 Greenwich Ave, New York, NY 10011","{'tea', 'grocery'}",40.7384003698826,-74.0021178871393,Carry on Tea & Sympathy,10011,10011,Chelsea Greenwich Village
+69,"431 West 16th Street, New York, NY 10011","{'butcher', 'grocery'}",40.743072,-74.005722,Western Beef,10011,10011,Chelsea Greenwich Village
+70,"215 8th Ave, Manhattan, NY 10011",{'grocery'},40.7440529,-73.9995804,Mozab Grocery,10011,10011,Chelsea Greenwich Village
+71,"67 W 14th Street, New York, NY 10011",{'grocery'},40.7369318604469,-73.9957047253847,14th Street Food Market,10011,10011,Chelsea Greenwich Village
+72,"115 W 23rd Street Apt 23, New York, NY 10011",{'grocery'},40.743404,-73.993263,Kings Deli & Salad Bar,10011,10011,Chelsea Greenwich Village
+73,"12 E 41st St, New York, NY 10017","{'japanese', 'grocery'}",40.7524647,-73.980584,Sunrise Mart,10017,10017,East Midtown
+74,"129 E 47th St, New York, NY 10017","{'japanese', 'grocery'}",40.7546157836914,-73.9731292724609,dainobu,10017,10017,East Midtown
+75,"240 E 45th St, New York, NY 10017","{'grocery', 'catering'}",40.7519,-73.97142,The Amish Market,10017,10017,East Midtown
+76,"Grand Central Terminal, 89 E 42nd St, New York, NY 10017","{'beer_and_wine', 'grocery'}",40.7533509657132,-73.9773763459966,Taste NY,10017,10017,East Midtown
+77,"765 2nd Ave, New York, NY 10017",{'grocery'},40.7491038,-73.9729372,765 Produce,10017,10017,East Midtown
+78,"839 2nd Ave, New York, NY 10017","{'delis', 'grocery'}",40.751762,-73.971145,45 Deli Market,10017,10017,East Midtown
+79,"908 Second Avenue, New York, NY 10017",{'grocery'},40.7537643,-73.9691367,Morton Williams,10017,10017,East Midtown
+80,"748 2nd Ave & 40th St, New York, NY 10017",{'grocery'},40.74855,-73.97315,Gristedes,10017,10017,East Midtown
+81,"45 Tudor City Pl, New York, NY 10017",{'grocery'},40.749347,-73.969993,Tudor Farm,10017,10017,East Midtown
+82,"820 Second Ave, Manhattan, NY 10017",{'grocery'},40.750804901123,-73.9712142944336,Health Harvest Health Food Store,10017,10017,East Midtown
+83,"833 2nd Ave, New York, NY 10017",{'grocery'},40.7515295,-73.9711621,Food Expo,10017,10017,East Midtown
+84,"748 2nd Ave, New York, NY 10017",{'grocery'},40.74872,-73.97279,Sloan's Supermarket,10017,10017,East Midtown
+85,"162 E. 44th St, Manhattan, NY 10017","{'delis', 'grocery'}",40.75212,-73.9739,Hot & Tasty Cafe and Grocery,10017,10017,East Midtown
+86,"600 W 42nd St, New York, NY 10036","{'cafes', 'grocery'}",40.7607938341583,-73.9984574739583,SUNAC Natural Market,10036,10036,West Midtown
+87,"402 W 47th St, New York, NY 10036",{'grocery'},40.761639,-73.990784,Urban Market,10036,10036,West Midtown
+88,"452 W 43rd St, New York, NY 10036",{'grocery'},40.7596825,-73.9938821,Food Emporium,10036,10036,West Midtown
+89,"695 10th Ave, New York, NY 10036","{'mexican', 'grocery'}",40.7632179260254,-73.9932556152344,Tehuitzingo,10036,10036,West Midtown
+90,"554 5th Ave, New York, NY 10036","{'delis', 'mexican', 'grocery'}",40.7558822631836,-73.9795455932617,Smilers Food Store,10036,10036,West Midtown
+91,"350 West 42nd Street 20H, New York, NY 10036",{'grocery'},40.7580609,-73.9922694,Merci Market,10036,10036,West Midtown
+92,"680 8th Ave, New York, NY 10036","{'grocery', 'convenience'}",40.757877,-73.988677,Gourmet New York,10036,10036,West Midtown
+93,"694 9th Ave, New York, NY 10036",{'grocery'},40.761886,-73.989715,Mazzella's Market,10036,10036,West Midtown
+94,"456 W 45 10 Ave, New York, NY 10036","{'delis', 'grocery', 'sandwiches'}",40.7554299,-73.9983192,A & A Market & Deli,10036,10036,West Midtown
+95,"659 10th Ave, New York, NY 10036",{'grocery'},40.7625885,-73.9937134,Mr Zhang Grocery Store,10036,10036,West Midtown
+96,"681 9th Ave, New York, NY 10036",{'grocery'},40.7616081,-73.9906235,NY Food Market,10036,10036,West Midtown
+97,"300 8th Ave, New York, NY 10019","{'juicebars', 'grocery'}",40.7466525,-73.997315,Chelsea Fine Food,10019,10019,West Midtown
+98,"731 9th Ave, New York, NY 10019","{'markets', 'juicebars', 'grocery'}",40.76329,-73.989471,Amish Market West,10019,10019,West Midtown
+99,"550 W 54th St, New York, NY 10019","{'delis', 'grocery'}",40.76768,-73.99149,The Market At Mercedes House,10019,10019,West Midtown
+100,"810 8th Ave, New York, NY 10019",{'grocery'},40.76184,-73.98618,The Food Emporium,10019,10019,West Midtown
+101,"36 W 56th St, New York, NY 10019",{'grocery'},40.762851,-73.976371,Dainobu,10019,10019,West Midtown
+102,"140 West 57th Street, New York, NY 10019",{'grocery'},40.7648648522131,-73.9787796392833,Morton Williams,10019,10019,West Midtown
+103,"941 8th Ave, New York, NY 10019",{'grocery'},40.7660385,-73.983641,Bread & Honey,10019,10019,West Midtown
+104,"10 Columbus Cir, Ste SC101, New York, NY 10019","{'gourmet', 'coffee', 'grocery'}",40.7684372199907,-73.9827787460327,Whole Foods Market,10019,10019,West Midtown
+105,"732 10th Ave, New York, NY 10019","{'delis', 'grocery'}",40.764488,-73.991615,Ramses At 10 Ave,10019,10019,West Midtown
+106,"814 10th Ave, New York, NY 10019","{'delis', 'grocery'}",40.767238,-73.989524,United We Stand Deli & Grocery,10019,10019,West Midtown
+107,"907 8th Ave, New York, NY 10019",{'grocery'},40.76474,-73.98454,Gristede's,10019,10019,West Midtown
+108,"815 10th Ave, New York, NY 10019",{'grocery'},40.7675958,-73.9897718,D'Agostino,10019,10019,West Midtown
+109,"1366 6th Ave, New York, NY 10019","{'gourmet', 'grocery'}",40.7632467,-73.9777463,Ernest Klein & Company,10019,10019,West Midtown
+110,"917 Ninth Avenue, New York, NY 10019",{'grocery'},40.7688268,-73.9852549,Morton Williams,10019,10019,West Midtown
+111,"721 11th Ave, New York, NY 10019",{'grocery'},40.7667389,-73.9944077,51 Food Market,10019,10019,West Midtown
+112,"769 10th Ave, New York, NY 10019",{'grocery'},40.7658407092094,-73.9910182356834,NY 2 Food Market,10019,10019,West Midtown
+113,"1413 6th Ave, New York, NY 10019",{'grocery'},40.7648616,-73.9770615,Merci Market,10019,10019,West Midtown
+114,"819 9th Ave, New York, NY 10019",{'grocery'},40.7662658691406,-73.9872665405273,54 Royal Deli,10019,10019,West Midtown
+115,"New York, NY 10019","{'grocery', 'fooddeliveryservices'}",40.7662925720215,-73.9927520751953,FoodKick,10019,10019,West Midtown
+116,"115 W 57th St, New York, NY 10019",{'grocery'},40.764908,-73.977882,Dali Market,10019,10019,West Midtown
+117,"1366 Avenue of the Americ, New York, NY 10019",{'grocery'},40.7632436603308,-73.9779022336006,Klein Ernest & Company Supermarket,10019,10019,West Midtown
+118,"781 9th Ave, New York, NY 10019",{'grocery'},40.76491,-73.98813,Oscar L. Fruit & Vegetables,10019,10019,West Midtown
+119,"886 10th Ave Frnt, New York, NY 10019",{'grocery'},40.76956,-73.98801,A & A Deli,10019,10019,West Midtown
+120,"917 9th Ave, New York, NY 10019",{'grocery'},40.7688424,-73.9852453,Associated Supermarkets,10019,10019,West Midtown
+121,"7 E 14th St, New York, NY 10003","{'markets', 'grocery'}",40.7358551025391,-73.9925155639648,Garden of Eden,10003,10003,Greenwich Village
+122,"142 E 14th St, New York, NY 10003","{'beer_and_wine', 'grocery'}",40.7336904108524,-73.9882441610098,Trader Joe's,10003,10003,Greenwich Village
+123,"4 Union Square S, New York, NY 10003","{'gourmet', 'coffee', 'grocery'}",40.7348685454213,-73.9913427829742,Whole Foods Market,10003,10003,Greenwich Village
+124,"84 3rd Ave, New York, NY 10003","{'grocery', 'catering'}",40.73187,-73.98862,Westside Market,10003,10003,Greenwich Village
+125,"252 3rd Ave, New York, NY 10003","{'delis', 'grocery'}",40.737396,-73.984543,Namu Deli,10003,10003,Greenwich Village
+126,"New York, NY 10003","{'delis', 'beer_and_wine', 'grocery'}",40.7322535,-73.9874105,NewYorkGrocery.com,10003,10003,Greenwich Village
+127,"1 University Pl, New York, NY 10003","{'delis', 'grocery', 'sandwiches'}",40.7308625603409,-73.9952252361478,Space Market,10003,10003,Greenwich Village
+128,"275 1st Ave, New York, NY 10003",{'grocery'},40.732589,-73.982025,K M P Market,10003,10003,Greenwich Village
+129,"59 5th Ave, New York, NY 10003","{'delis', 'grocery'}",40.7352033420492,-73.9941824164925,Merci Market,10003,10003,Greenwich Village
+130,"10 Union Square E, New York, NY 10003","{'markets', 'delis', 'grocery'}",40.7344662972731,-73.9895852098519,The Food Emporium,10003,10003,Greenwich Village
+131,"315 1st Ave, New York, NY 10003","{'markets', 'grocery'}",40.734688,-73.982201,One's Fruit & Grocery,10003,10003,Greenwich Village
+132,"91 1st Ave, New York, NY 10003",{'grocery'},40.726261,-73.986686,Dual Specialty Store,10003,10003,Greenwich Village
+133,"58 E 4th St, New York, NY 10003","{'markets', 'healthmarkets', 'grocery'}",40.726554,-73.990859,4th Street Food Co-op,10003,10003,Greenwich Village
+134,"146 2nd Ave, New York, NY 10003","{'healthmarkets', 'grocery', 'convenience'}",40.7292020000096,-73.9867730000019,Village Farm Grocery,10003,10003,Greenwich Village
+135,"94 Ave B, New York, NY 10003","{'delis', 'grocery', 'sandwiches'}",40.7245959526307,-73.9815849065781,Sunny and Annie's,10003,10003,Greenwich Village
+136,"21 St Marks Pl, New York, NY 10003","{'delis', 'grocery'}",40.729127,-73.98857,St Mark's Market,10003,10003,Greenwich Village
+137,"61 1st Ave 4th St, New York, NY 10003","{'delis', 'grocery'}",40.7250797391189,-73.9872550964355,Houston Village Farm's Deli,10003,10003,Greenwich Village
+138,"165 1st Ave, New York, NY 10003",{'grocery'},40.729076,-73.984642,Commodities Natural Market,10003,10003,Greenwich Village
+139,"109 First Ave, New York, NY 10003","{'delis', 'grocery'}",40.726894,-73.98616,Polish G.I. Delicatessen,10003,10003,Greenwich Village
+140,"69 2nd Ave, New York, NY 10003",{'grocery'},40.726398,-73.989624,East Village Farm & Grocery,10003,10003,Greenwich Village
+141,"107 2nd Ave, New York, NY 10003",{'grocery'},40.727735575523,-73.9884884346556,New Yorkers Foodmarket,10003,10003,Greenwich Village
+142,"40 E 3rd St, New York, NY 10003",{'grocery'},40.7254099,-73.98971,Pak Punjab Deli & Grocery,10003,10003,Greenwich Village
+143,"31 3rd Ave, 2nd Fl, New York, NY 10003","{'importedfood', 'grocery'}",40.7297732971442,-73.9892049219367,Sunshine Mart,10003,10003,Greenwich Village
+144,"25 University Pl, New York, NY 10003",{'grocery'},40.7317659258842,-73.9945768564939,Gristedes,10003,10003,Greenwich Village
+145,"102 2nd Ave, New York, NY 10003",{'grocery'},40.7271996,-73.9883728,Village Gourmet Grocery,10003,10003,Greenwich Village
+146,"33 Greenwich Ave, New York, NY 10014","{'fooddeliveryservices', 'grocery', 'convenience'}",40.73477626739,-74.0002644919936,Greenwich Village Farm,10014,10014,West Greenwich Village
+147,"11 8th Ave, New York, NY 10014",{'grocery'},40.7377319335938,-74.0049591064453,Spyros & Sons Food Mart,10014,10014,West Greenwich Village
+148,"117 7th Ave S, New York, NY 10014","{'gourmet', 'grocery'}",40.733266042508,-74.002710463142,Gourmet Garage,10014,10014,West Greenwich Village
+149,"666 Greenwich St, New York, NY 10014",{'grocery'},40.7322265952826,-74.0077518671751,Brooklyn Fare,10014,10014,West Greenwich Village
+150,"800 Washington St, New York, NY 10014",{'grocery'},40.73887,-74.0082,Nonno Gourmet,10014,10014,West Greenwich Village
+151,"65 8th Ave, New York, NY 10014",{'grocery'},40.7392502,-74.0031204,Fresh Farm,10014,10014,West Greenwich Village
+152,"1Abingdon Sq, New York, NY 10014","{'coffee', 'bagels', 'grocery'}",40.736930847168,-74.0053100585938,Abingdon Market,10014,10014,West Greenwich Village
+153,"514 Hudson, New York, NY 10014",{'grocery'},40.73357,-74.00615,Hudson Gourmet,10014,10014,West Greenwich Village
+154,"543 3 Sheridan Sq, New York, NY 10014",{'grocery'},40.7328455,-74.0023326,Gristedes Supermarket,10014,10014,West Greenwich Village
+155,"58 Carmine St, New York, NY 10014",{'grocery'},40.72971,-74.00408,Cho's Grocery,10014,10014,West Greenwich Village
+156,"320 1st Ave, New York, NY 10009",{'grocery'},40.7341127080103,-73.9801221893408,Gracefully,10009,10009,East Greenwich Village
+157,"409 E 14th St, New York, NY 10009","{'markets', 'grocery'}",40.7313896,-73.9819372,Associated Supermarkets,10009,10009,East Greenwich Village
+158,"240 E Houston St, New York, NY 10009",{'grocery'},40.7221877574921,-73.9858368784189,Union Market,10009,10009,East Greenwich Village
+159,"114 E 1st St, New York, NY 10009","{'indpak', 'grocery', 'vegetarian'}",40.7227225423661,-73.9866224576721,Punjabi Grocery & Deli,10009,10009,East Greenwich Village
+160,"52 Ave A, New York, NY 10009",{'grocery'},40.723937,-73.984596,Key Food Supermarket,10009,10009,East Greenwich Village
+161,"42 Ave C, New York, NY 10009",{'grocery'},40.721958,-73.980041,Fine Fare Super Market,10009,10009,East Greenwich Village
+162,"215 Ave A, New York, NY 10009","{'mexican', 'grocery'}",40.730102,-73.980949,Zaragoza Mexican Deli & Grocery,10009,10009,East Greenwich Village
+163,"123 Ave C, New York, NY 10009",{'grocery'},40.7245881,-73.9786736,Associated Supermarkets,10009,10009,East Greenwich Village
+164,"188 Avenue C, New York, NY 10009",{'grocery'},40.726963,-73.975845,C Town Supermarket,10009,10009,East Greenwich Village
+165,"66 Avenue C, New York, NY 10009","{'delis', 'grocery', 'convenience'}",40.722599,-73.9797363,Essa Deli Grocery,10009,10009,East Greenwich Village
+166,"542 E 14th St, New York, NY 10009",{'grocery'},40.7293995,-73.9783282,Brothers Candy & Grocery Store,10009,10009,East Greenwich Village
+167,"26 Ave A, New York, NY 10009","{'grocery', 'convenience'}",40.723155,-73.985374,Graceland,10009,10009,East Greenwich Village
+168,"100 Ave A, New York, NY 10009",{'grocery'},40.7256699353456,-73.9837440848351,East Village Farm,10009,10009,East Greenwich Village
+169,"148 1st Avenue, New York, NY 10009",{'grocery'},40.7280299,-73.98477,Lime Tree Market,10009,10009,East Greenwich Village
+170,"71 Ave D, New York, NY 10009",{'grocery'},40.7223097980022,-73.9771082997322,Compare Foods,10009,10009,East Greenwich Village
+171,"196 1st Ave, New York, NY 10009",{'grocery'},40.729797,-73.983345,Best Price Deli & Grocery,10009,10009,East Greenwich Village
+172,"402 E 14th St, New York, NY 10009",{'grocery'},40.7310944,-73.9823431,14th Street Candy & Grocery,10009,10009,East Greenwich Village
+173,"420 Lexington Ave, New York, NY 10170",{'grocery'},40.7527008,-73.975853,Greenwich Produce,10170,10170,Midtown
+174,"55 E 59th St, New York, NY 10022","{'gourmet', 'grocery', 'catering'}",40.7635154724121,-73.9706497192383,Delmonico Gourmet Food Market,10022,10022,East Midtown
+175,"226 E 57th St, New York, NY 10022","{'gourmet', 'coffee', 'grocery'}",40.7598572,-73.9668655,Whole Foods Market,10022,10022,East Midtown
+176,"224 E 59th St, Ste A, New York, NY 10022",{'grocery'},40.760864,-73.96556,Katagiri Japanese Grocery Store,10022,10022,East Midtown
+177,"1031 1st Ave, New York, NY 10022",{'grocery'},40.7580452,-73.9632721,Morton Williams,10022,10022,East Midtown
+178,"966 1st Ave, New York, NY 10022",{'grocery'},40.7558784,-73.9644699,D'agostino Supermarkets,10022,10022,East Midtown
+179,"1061 2nd Ave, New York, NY 10022","{'delis', 'grocery'}",40.758663,-73.966171,Deliteria Deli & Grocery,10022,10022,East Midtown
+180,"1007 2nd Ave, New York, NY 10022",{'grocery'},40.757057,-73.967262,Aplus,10022,10022,East Midtown
+181,"157 Hester St, New York, NY 10013",{'grocery'},40.71758,-73.9960399,Hong Kong Supermarket,10013,10013,"Tribeca, Soho"
+182,"79 Elizabeth St, New York, NY 10013","{'butcher', 'grocery'}",40.71801,-73.9962,Deluxe Food Market,10013,10013,"Tribeca, Soho"
+183,"200 Canal St, New York, NY 10013","{'grocery', 'convenience'}",40.7168452074784,-73.9983575531337,New Kam Man,10013,10013,"Tribeca, Soho"
+184,"59 Bayard St, Ste A, New York, NY 10013",{'grocery'},40.7152805,-73.9979141,59 Bayard Market,10013,10013,"Tribeca, Soho"
+185,"408 Broome St, New York, NY 10013","{'basque', 'grocery', 'spanish'}",40.7210686,-73.9979083,Despaña,10013,10013,"Tribeca, Soho"
+186,"79 Bayard St, New York, NY 10013","{'coffee', 'grocery'}",40.71563,-73.99874,Sun's Organic Garden,10013,10013,"Tribeca, Soho"
+187,"128 Mott St, New York, NY 10013",{'grocery'},40.718479,-73.996475,New York Mart,10013,10013,"Tribeca, Soho"
+188,"1 Mott St, New York, NY 10013","{'organic_stores', 'grocery', 'tradamerican'}",40.7138025,-73.9988233,Ali Baba Organic Marketplace,10013,10013,"Tribeca, Soho"
+189,"75 Mulberry St, New York, NY 10013",{'grocery'},40.71634,-73.99935,Sun Vin Grocery,10013,10013,"Tribeca, Soho"
+190,"366 Broadway, New York, NY 10013","{'butcher', 'seafoodmarkets', 'grocery'}",40.7174120227286,-74.0035090521493,Gourmet Garage,10013,10013,"Tribeca, Soho"
+191,"230 Grand St, New York, NY 10013","{'markets', 'grocery'}",40.7186499,-73.99499,Durian NYC,10013,10013,"Tribeca, Soho"
+192,"218 Canal St, New York, NY 10013","{'seafoodmarkets', 'grocery'}",40.717166,-73.999359,Win Choy Food Market,10013,10013,"Tribeca, Soho"
+193,"91 Mulberry St, New York, NY 10013",{'grocery'},40.71684,-73.9990399,Tokyo Mart,10013,10013,"Tribeca, Soho"
+194,"18 Mott St, New York, NY 10013","{'healthmarkets', 'grocery'}",40.714313,-73.998504,Elite Health Products,10013,10013,"Tribeca, Soho"
+195,"54 Elizabeth St, Ste 9, New York, NY 10013",{'grocery'},40.717178,-73.996322,"Mee Li Fruits & Vegs., Co.",10013,10013,"Tribeca, Soho"
+196,"447 Broadway, New York, NY 10013",{'grocery'},40.720584,-74.001472,Jubilee Market,10013,10013,"Tribeca, Soho"
+197,"42A Mott St, 1Fl, New York, NY 10013",{'grocery'},40.7151620726527,-73.9986725295917,Tong Ren Grocery Inc,10013,10013,"Tribeca, Soho"
+198,"202 Avenue of the Americas, New York, NY 10013",{'grocery'},40.726638,-74.002983,M.H. Fruit Corporation,10013,10013,"Tribeca, Soho"
+199,"111 Hudson St, New York, NY 10013","{'juicebars', 'grocery'}",40.71969,-74.00896,Jin Market,10013,10013,"Tribeca, Soho"
+200,"69 Mulberry St, New York, NY 10013","{'grocery', 'meats'}",40.715963691473,-73.9993592351675,Han May,10013,10013,"Tribeca, Soho"
+201,"316 Greenwich Street, New York, NY 10013",{'grocery'},40.7177494,-74.0107925,Best Market,10013,10013,"Tribeca, Soho"
+202,"42 Grand St Frnt, New York, NY 10013",{'grocery'},40.722679,-74.004103,Grand Street Deli,10013,10013,"Tribeca, Soho"
+203,"402 Broome St, New York, NY 10013",{'grocery'},40.7208878813806,-73.9974383156093,Taasha Deli Grocery,10013,10013,"Tribeca, Soho"
+204,"68 Elizabeth St, New York, NY 10013",{'grocery'},40.7177668064833,-73.9961553364992,Dynasty Supermarket,10013,10013,"Tribeca, Soho"
+205,"141 Mott St, New York, NY 10013",{'grocery'},40.7187309,-73.9968872,Da Ou Jang Market,10013,10013,"Tribeca, Soho"
+206,"121 Mott Street, New York, NY 10013",{'grocery'},40.718048,-73.997215,At Trading,10013,10013,"Tribeca, Soho"
+207,"316 Greenwich St, New York, NY 10013",{'grocery'},40.7177494,-74.0107925,Food Emporium,10013,10013,"Tribeca, Soho"
+208,"88 Mulberry Street, New York, NY 10013",{'grocery'},40.716613,-73.998596,88 Natural Food,10013,10013,"Tribeca, Soho"
+209,"289 Hudson St, New York, NY 10013","{'delis', 'grocery'}",40.725711,-74.007812,D&D Sprouts Deli & Grocery,10013,10013,"Tribeca, Soho"
+210,"120 Essex St, New York, NY 10002","{'gourmet', 'grocery'}",40.7193413,-73.9876022,Essex St Market,10002,10002,Lower East Side
+211,"121 Bowery, New York, NY 10002",{'grocery'},40.7180366516113,-73.9946594238281,Tan Tin-Hung Supermarket,10002,10002,Lower East Side
+212,"95 E Houston St, New York, NY 10002","{'gourmet', 'coffee', 'grocery'}",40.7238075549685,-73.9924013834671,Whole Foods Market,10002,10002,Lower East Side
+213,"117 Ludlow St, New York, NY 10002",{'grocery'},40.7196,-73.98886,Shop Smart,10002,10002,Lower East Side
+214,"90 Clinton St, New York, NY 10002",{'grocery'},40.71832,-73.98536,Clinton Supermarket & Mall,10002,10002,Lower East Side
+215,"250 Grand St, New York, NY 10002",{'grocery'},40.718357,-73.993949,GS Food Market,10002,10002,Lower East Side
+216,"109 E Broadway, New York, NY 10002",{'grocery'},40.7170830899427,-73.9922510460019,Chinatown Supermarket Of Manhattan,10002,10002,Lower East Side
+217,"97 Stanton St, New York, NY 10002","{'juicebars', 'beer_and_wine', 'grocery'}",40.7211609,-73.9881897,Freshco Grocery & Deli,10002,10002,Lower East Side
+218,"75 E Broadway, New York, NY 10002",{'grocery'},40.7133904,-73.9940109,New York Supermarket East Broadway,10002,10002,Lower East Side
+219,"95 Delancey St, New York, NY 10002","{'juicebars', 'grocery', 'sandwiches'}",40.7185813,-73.9893599,Green Star Foods,10002,10002,Lower East Side
+220,"159 Essex St, New York, NY 10002","{'delis', 'grocery', 'convenience'}",40.7210366,-73.9871057,Yours Wholesome Foods,10002,10002,Lower East Side
+221,"110 Forsyth Street, New York, NY 10002",{'grocery'},40.7189712524414,-73.9923324584961,Don Juan Grocery & Deli,10002,10002,Lower East Side
+222,"140 Orchard St, New York, NY 10002",{'grocery'},40.720102339983,-73.9891527593136,Corner Grocers,10002,10002,Lower East Side
+223,"175 Clinton St, New York, NY 10002",{'grocery'},40.7153358,-73.9872208,Fine Fare Supermarket,10002,10002,Lower East Side
+224,"247 Grand St, New York, NY 10002",{'grocery'},40.718044,-73.9943,Ken Hing Food Market,10002,10002,Lower East Side
+225,"43 Columbia St, New York, NY 10002",{'grocery'},40.7165940105915,-73.9805489033461,Key Food Supermarket,10002,10002,Lower East Side
+226,"249 Grand St, New York, NY 10002",{'grocery'},40.7181282,-73.9941101,Tan My My Co,10002,10002,Lower East Side
+227,"272-274 Grand St, New York, NY 10002",{'grocery'},40.718078,-73.992835,Fairtown Trading,10002,10002,Lower East Side
+228,"545 Grand St, New York, NY 10002",{'grocery'},40.7139931,-73.9805374,Fine Fare,10002,10002,Lower East Side
+229,"265 Cherry St, New York, NY 10002",{'grocery'},40.7111435,-73.9893265,265 Cherry Foodmarket,10002,10002,Lower East Side
+230,"329 Grand St, New York, NY 10002",{'grocery'},40.716926,-73.990455,Teng Fei Grocery,10002,10002,Lower East Side
+231,"291 Grand St, New York, NY 10002",{'grocery'},40.7174301,-73.9921799,Cheng Sheng Import & Export,10002,10002,Lower East Side
+232,"52 Canal St, New York, NY 10002",{'grocery'},40.7146912,-73.9917068,Canal St Newsstand,10002,10002,Lower East Side
+233,"195 E Houston Street, New York, NY 10002",{'grocery'},40.7223854,-73.9875793,Tiehama Grocery,10002,10002,Lower East Side
+234,"135 Christie St, New York, NY 10002",{'grocery'},40.7196521849325,-73.9934268593788,AAA Avocados,10002,10002,Lower East Side
+235,"155 Attorney St, New York, NY 10002",{'grocery'},40.7205963134766,-73.9836120605469,Plantains Cash & Carry,10002,10002,Lower East Side
+236,"241 Grand St, New York, NY 10002",{'grocery'},40.7181778,-73.9944077,Bor Kee Food Market,10002,10002,Lower East Side
+237,"38 Jefferson Street, New York, NY 10002",{'grocery'},40.713,-73.98864,Papito Grocery,10002,10002,Lower East Side
+238,"123 Madison St, New York, NY 10002",{'grocery'},40.71242,-73.99412,123M NY Corp,10002,10002,Lower East Side
+239,"130 Eldridge St, New York, NY 10002",{'grocery'},40.7187,-73.99158,Chinese Hispanic Grocery,10002,10002,Lower East Side
+240,"51 E Broadway, New York, NY 10002","{'importedfood', 'grocery'}",40.713394,-73.995628,New Long Hing Market,10002,10002,Lower East Side
+241,"64 E Broadway, New York, NY 10002",{'grocery'},40.7139472961426,-73.9950714111328,Ginseng,10002,10002,Lower East Side
+242,"259 E Broadway, New York, NY 10002",{'grocery'},40.7142143249512,-73.9854278564453,United Deli & Grocery,10002,10002,Lower East Side
+243,"242 Grand St, New York, NY 10002",{'grocery'},40.718482,-73.994277,Grand Star Lotto,10002,10002,Lower East Side
+244,"101 Bowery, New York, NY 10002",{'grocery'},40.717442,-73.994926,Price Good Market,10002,10002,Lower East Side
+245,"119-D Hester St, New York, NY 10002",{'grocery'},40.7168007,-73.9933929,Hester Corner Grocery,10002,10002,Lower East Side
+246,"83 Canal St, New York, NY 10002",{'grocery'},40.7153969,-73.9930649,Highline Deli II,10002,10002,Lower East Side
+247,"560 Broadway, New York, NY 10012","{'gourmet', 'grocery'}",40.7239888956321,-73.997678154631,Dean & DeLuca,10012,10012,Village NoHo
+248,"40 Prince St, New York, NY 10012","{'grocery', 'convenience'}",40.723026,-73.995544,Soho Garden,10012,10012,Village NoHo
+249,"489 Broome St, New York, NY 10012","{'gourmet', 'grocery'}",40.7231012,-74.002552,Gourmet Garage,10012,10012,Village NoHo
+250,"130 Bleecker Street, New York, NY 10012",{'grocery'},40.7277352362871,-73.9984083920717,Morton Williams,10012,10012,Village NoHo
+251,"124 Thompson St, New York, NY 10012","{'delis', 'grocery', 'convenience'}",40.72623,-74.00138,M & O Market & Deli,10012,10012,Village NoHo
+252,"645 Bdwy, New York, NY 10012","{'delis', 'grocery'}",40.7255592346191,-73.9980010986328,Han's Deli,10012,10012,Village NoHo
+253,"127 Spring St, New York, NY 10012",{'grocery'},40.7239189,-74.0004272,Soho Natural,10012,10012,Village NoHo
+254,"540 LaGuardia Poace, New York, NY 10012",{'grocery'},40.728893,-73.998603,Court St Grocery,10012,10012,Village NoHo
+255,"246 Mercer St & W 4th St, New York, NY 10012",{'grocery'},40.7282377264616,-73.9953772857816,Gristedes,10012,10012,Village NoHo
+256,"240 Sullivan St, New York, NY 10012",{'grocery'},40.7297965139151,-73.9996569603682,J W Market,10012,10012,Village NoHo
+257,"270 Greenwich St, New York, NY 10007","{'gourmet', 'coffee', 'burgers', 'grocery'}",40.71564,-74.0121,Whole Foods Market,10007,10007,Financial District
+258,"55 Fulton St, New York, NY 10038",{'grocery'},40.708771,-74.0046574,55 Fulton Market,10038,10038,"Financial District, Seaport"
+259,"59 Maiden Ln, New York, NY 10038","{'gourmet', 'delis', 'grocery'}",40.70866,-74.00798,Zeytuna,10038,10038,"Financial District, Seaport"
+260,"5 Saint James Pl, New York, NY 10038",{'grocery'},40.7107206,-74.000208,C-Town Supermarket,10038,10038,"Financial District, Seaport"
+261,"99 John St, New York, NY 10038","{'healthmarkets', 'grocery'}",40.70813,-74.00622,Jubilee Marketplace,10038,10038,"Financial District, Seaport"
+262,"90 Maiden Ln, New York, NY 10038",{'grocery'},40.706909,-74.007492,Gristedes,10038,10038,"Financial District, Seaport"
+263,"43 Catherine St, New York, NY 10038",{'grocery'},40.7120098,-73.9966423,Catherine  Deli and Grocery,10038,10038,"Financial District, Seaport"
+264,"101 Liberty St, 4 World Trade Ctr, New York, NY 10006","{'meats', 'grocery'}",40.7100124,-74.011861,Eataly Downtown,10006,10006,Financial District
+265,"2 Rector St, New York, NY 10006","{'delis', 'grocery'}",40.7080958125635,-74.0134219479835,Variety Market,10006,10006,Financial District
+266,"450 N End Ave, New York, NY 10282",{'grocery'},40.71719,-74.0138,Battery Park City Gourmet Market,10282,10282,Tribeca
+267,"240 Murray St, New York, NY 10282",{'grocery'},40.7150899,-74.01465,Battery Place Market,10282,10282,Tribeca
+268,"77 Battery Pl, New York, NY 10280","{'gluten_free', 'coffee', 'grocery'}",40.70727,-74.01704,Battery Place Market,10280,10280,Lower Manhattan
+269,"South End Ave & Albany St, New York, NY 10280",{'grocery'},40.7100811542014,-74.0163789376529,Fruit Stand @ South End Avenue,10280,10280,Lower Manhattan
+270,"315 S End Ave, New York, NY 10280",{'grocery'},40.7103371,-74.0164605,Gristedes,10280,10280,Lower Manhattan
+271,"71 South End Ave, New York, NY 10280",{'grocery'},40.7083324,-74.0176675,Gristedes,10280,10280,Lower Manhattan
+272,"71 S End Ave, New York, NY 10280",{'grocery'},40.7083321,-74.0176697,Gristede's Sloan's Supermarkets,10280,10280,Lower Manhattan
+273,"225 Liberty St, New York, NY 10281","{'french', 'grocery', 'wine_bars'}",40.7126473617984,-74.0157784596443,Le District,10281,10281,Lower Manhattan
+274,"164 Pearl St, New York, NY 10005","{'beer_and_wine', 'grocery'}",40.70592,-74.00747,Wall Street Groceries,10005,10005,Financial District
+275,"301 E 64th St, New York, NY 10021","{'butcher', 'seafoodmarkets', 'grocery'}",40.7635890754352,-73.9613443648548,Gourmet Garage,10021,10021,Upper East Side
+276,"1175 3rd Ave, New York, NY 10021",{'grocery'},40.7673970609903,-73.962252214551,Food Emporium,10021,10021,Upper East Side
+277,"1313 3rd Ave, New York, NY 10021","{'seafoodmarkets', 'grocery'}",40.7717467,-73.958728,Citarella Gourmet Market - Upper East Side,10021,10021,Upper East Side
+278,"1208 1st Ave, New York, NY 10021",{'grocery'},40.7634351,-73.9589959,Gristede's Sloan's Supermarkets,10021,10021,Upper East Side
+279,"1074 Lexington Ave, New York, NY 10021",{'grocery'},40.7728796,-73.9606027,D'Agostino,10021,10021,Upper East Side
+280,"1305 3rd Ave, Manhattan, NY 10021",{'grocery'},40.7713661,-73.9592209,Jowny Market,10021,10021,Upper East Side
+281,"1043 Lexington Ave, New York, NY 10021","{'delis', 'grocery'}",40.771934,-73.960784,Son's Freedom Market & Deli,10021,10021,Upper East Side
+282,"971 Lexington Ave, New York, NY 10021",{'grocery'},40.769294,-73.962707,Lexgourmet Corporation,10021,10021,Upper East Side
+283,"Lexington Ave & 75th St, Manhattan, NY 10021",{'grocery'},40.7723698765039,-73.9607796818018,D'Agostino,10021,10021,Upper East Side
+284,"1492 York Ave, New York, NY 10021","{'grocery', 'convenience'}",40.77116,-73.95038,York Deli,10021,10021,Upper East Side
+285,"1507 York Ave, New York, NY 10021",{'grocery'},40.7721043,-73.9501086,D'Agostino,10021,10021,Upper East Side
+286,"1368 York Ave, New York, NY 10021","{'grocery', 'convenience'}",40.7673,-73.953011,Green Gourmet,10021,10021,Upper East Side
+287,"1446 2nd Ave, New York, NY 10021",{'grocery'},40.7709168,-73.9566126,Gristedes,10021,10021,Upper East Side
+288,"1458 2nd Ave, New York, NY 10021","{'markets', 'grocery'}",40.77143,-73.956062,Number 1 Farmers Market,10021,10021,Upper East Side
+289,"1422 2nd Ave, New York, NY 10021",{'grocery'},40.770149,-73.957023,City 74 Market,10021,10021,Upper East Side
+290,"1431 York Ave, New York, NY 10021",{'grocery'},40.769405,-73.952293,H&j Food Depot,10021,10021,Upper East Side
+291,"1299 2nd Ave, New York, NY 10065",{'grocery'},40.7665174,-73.9602921,Grace's Marketplace,10065,10065,Midtown Upper East Side
+292,"809 Lexington Ave, New York, NY 10065",{'grocery'},40.764229,-73.966423,809 Lexington Grocery Store,10065,10065,Midtown Upper East Side
+293,"West Building, 695 Park Ave, 3rd Fl, Manhattan, NY 10065","{'collegeuniv', 'grocery'}",40.7678341926692,-73.9641666412354,Hunter College Cafeteria,10065,10065,Midtown Upper East Side
+294,"530 Main St, New York, NY 10044","{'convenience', 'grocery', 'desserts'}",40.7613477434809,-73.9500166660687,Wholesome Factory,10044,10044,Roosevelt Island
+295,"686 Main St, New York, NY 10044",{'grocery'},40.7647534542755,-73.946864308366,Gristedes,10044,10044,Roosevelt Island
+296,"1505 First Ave, New York, NY 10075",{'grocery'},40.7721068,-73.9530334,Agata & Valentina,10075,10075,Midtown Upper East Side
+297,"1474 York Ave, New York, NY 10075",{'grocery'},40.7709584163551,-73.9508521556854,Super-Del Market,10075,10075,Midtown Upper East Side
+298,"1041 Madison Ave, Ste 1, Manhattan, NY 10075",{'grocery'},40.77655,-73.961624,Gentile's Foods & Market,10075,10075,Midtown Upper East Side
+299,"1528 1st Ave, New York, NY 10075",{'grocery'},40.772804,-73.951995,Eddie's Market,10075,10075,Midtown Upper East Side
+300,"2073 Broadway, New York, NY 10023",{'grocery'},40.7785758376122,-73.9821428060532,Trader Joe's,10023,10023,Upper West Side
+301,"155 W 66th St, New York, NY 10023","{'gourmet', 'grocery'}",40.774415163809,-73.983425117173,Gourmet Garage,10023,10023,Upper West Side
+302,"101 W End Ave, Manhattan, NY 10023",{'grocery'},40.7751503,-73.9884491,Gracefully,10023,10023,Upper West Side
+303,"2127 Broadway, New York, NY 10023","{'healthmarkets', 'grocery'}",40.7806505262852,-73.9815896004438,Fairway Market,10023,10023,Upper West Side
+304,"75 W End Ave, New York, NY 10023",{'grocery'},40.7737922668457,-73.9894027709961,Western Beef,10023,10023,Upper West Side
+305,"289 Columbus Ave, New York, NY 10023",{'grocery'},40.7784667634734,-73.9777813555528,Pioneer Supermarket,10023,10023,Upper West Side
+306,"273 W 72nd St, New York, NY 10023","{'markets', 'grocery'}",40.7796137,-73.9836638,West End Superette,10023,10023,Upper West Side
+307,"180 Riverside Blvd, New York, NY 10023",{'grocery'},40.77839,-73.98808,Jubilee Market Place,10023,10023,Upper West Side
+308,"153 Amsterdam Ave, New York, NY 10023","{'delis', 'grocery'}",40.775158,-73.983742,Sunflower Deli & Grocery,10023,10023,Upper West Side
+309,"309 Amsterdam Ave, New York, NY 10023","{'gourmet', 'butcher', 'grocery'}",40.7801094055176,-73.9801712036133,Babeth's Feast,10023,10023,Upper West Side
+310,"301 Amsterdam Ave, New York, NY 10023",{'grocery'},40.779953,-73.9804,New K C Market,10023,10023,Upper West Side
+311,"2171 Broadway, New York, NY 10024","{'markets', 'meats', 'grocery'}",40.7822795355419,-73.9811948760083,Westside Market,10024,10024,Upper West Side
+312,"418 Columbus Ave, New York, NY 10024","{'delis', 'bagels', 'grocery'}",40.782894,-73.975181,Andy's Deli,10024,10024,Upper West Side
+313,"471 Columbus Avenue, New York, NY 10024","{'markets', 'grocery'}",40.784175,-73.973449,Zingone Brothers,10024,10024,Upper West Side
+314,"454 Amsterdam Ave, New York, NY 10024","{'grocery', 'convenience'}",40.785118,-73.977256,West 82nd Grocery,10024,10024,Upper West Side
+315,"2245 Broadway, New York, NY 10024","{'delis', 'bagels', 'grocery'}",40.7848534038863,-73.9789552102077,Zabar's,10024,10024,Upper West Side
+316,"476 Columbus Ave, New York, NY 10024",{'grocery'},40.784572,-73.973968,Columbus Deli and Food,10024,10024,Upper West Side
+317,"530 Amsterdam Ave, New York, NY 10024",{'grocery'},40.7876815795898,-73.9757385253906,Key Food,10024,10024,Upper West Side
+318,"524 Columbus Ave, New York, NY 10024",{'grocery'},40.7861137,-73.9726868,Space Market,10024,10024,Upper West Side
+319,"504 Columbus Ave, New York, NY 10024",{'grocery'},40.7854682,-73.9731477,Gristedes,10024,10024,Upper West Side
+320,"2341 Broadway, New York, NY 10024",{'grocery'},40.787918324978,-73.977254731056,Broadway Farm,10024,10024,Upper West Side
+321,"2421 Bdwy, New York, NY 10024","{'healthmarkets', 'grocery'}",40.793758392334,-73.9763259887695,Gary Null's Uptown Whole Foods,10024,10024,Upper West Side
+322,"2455 Broadway, New York, NY 10024","{'markets', 'grocery', 'convenience'}",40.7913237065077,-73.9744073152542,Barzini,10024,10024,Upper West Side
+323,"633 Columbus Ave, New York, NY 10024","{'grocery', 'convenience'}",40.7893181,-73.9699402,D'Agostino,10024,10024,Upper West Side
+324,"251 W 86th St, New York, NY 10024",{'grocery'},40.7884651422501,-73.9767307788134,Gristedes,10024,10024,Upper West Side
+325,"607 W End Avenue, New York, NY 10024",{'grocery'},40.791248,-73.976509,Gristedes,10024,10024,Upper West Side
+326,"1150 Madison Ave, New York, NY 10028","{'gourmet', 'grocery'}",40.7804158407802,-73.9594261690102,Dean & DeLuca,10028,10028,Upper East Side
+327,"240 E 86th St, New York, NY 10028","{'healthmarkets', 'grocery'}",40.7779426574707,-73.9526443481445,Fairway Market,10028,10028,Upper East Side
+328,"1422 3rd Ave, New York, NY 10028","{'gourmet', 'grocery', 'fooddeliveryservices'}",40.775497,-73.956817,Babeth's Feast,10028,10028,Upper East Side
+329,"1654 2nd Ave, New York, NY 10028","{'grocery', 'meats'}",40.777557,-73.951614,Schaller & Weber,10028,10028,Upper East Side
+330,"1593 York Ave, New York, NY 10028",{'grocery'},40.774826,-73.948287,Beyoglu Garden Marketplace,10028,10028,Upper East Side
+331,"1565 First Avenue, New York, NY 10028",{'grocery'},40.7740574,-73.9515833,Morton Williams,10028,10028,Upper East Side
+332,"1411 3rd Ave, New York, NY 10028","{'gourmet', 'grocery'}",40.77507,-73.9565,Eli's Manhattan Market,10028,10028,Upper East Side
+333,"1580 York Ave, New York, NY 10028","{'seafoodmarkets', 'grocery'}",40.774028,-73.948158,Dorian's Seafood Market,10028,10028,Upper East Side
+334,"1498 3rd Ave, New York, NY 10028","{'healthmarkets', 'grocery'}",40.7779808044434,-73.9550018310547,Eastside Health Food Store,10028,10028,Upper East Side
+335,"1450 3rd Ave, New York, NY 10028",{'grocery'},40.7767,-73.95596,Food Emporium,10028,10028,Upper East Side
+336,"1637 York Ave, New York, NY 10028",{'grocery'},40.7762146,-73.9470978,Gristedes,10028,10028,Upper East Side
+337,"1200 Lexington Ave, Manhattan, NY 10028","{'markets', 'breakfast_brunch', 'grocery'}",40.7766,-73.95797,Food Passion NY,10028,10028,Upper East Side
+338,"1233 Lexington Ave, New York, NY 10028",{'grocery'},40.7778918743134,-73.9566919952631,D'Agostino Supermarkets,10028,10028,Upper East Side
+339,"1644 York Ave, New York, NY 10028",{'grocery'},40.7762134820223,-73.9468476176262,Gristede's Sloan's Supermarket,10028,10028,Upper East Side
+340,"1578 York Ave, New York, NY 10028","{'markets', 'grocery'}",40.773967,-73.948211,KY Fruit & Grocery,10028,10028,Upper East Side
+341,"1258 Lexington Ave Frnt A, New York, NY 10028",{'grocery'},40.7787514,-73.9564133,Family Market,10028,10028,Upper East Side
+342,"1582 3rd Ave, New York, NY 10128","{'gourmet', 'delis', 'grocery'}",40.7807960510254,-73.9529495239258,Milano Market,10128,10128,Upper East Side
+343,"1721 1st Ave, New York, NY 10128",{'grocery'},40.77908,-73.94801,C-Town Supermarket,10128,10128,Upper East Side
+344,"1551 3rd Ave, New York, NY 10128","{'organic_stores', 'grocery'}",40.77961,-73.95286,Whole Foods Market,10128,10128,Upper East Side
+345,"313 E 95th St, New York, NY 10128","{'beer_and_wine', 'grocery', 'convenience'}",40.7833725,-73.9465803,Noble Grains NYC,10128,10128,Upper East Side
+346,"431 E 91st St, New York, NY 10128","{'gourmet', 'grocery'}",40.779591,-73.945232,Eli's Market At The Vinegar Factory,10128,10128,Upper East Side
+347,"1726 1st Ave, New York, NY 10128",{'grocery'},40.7790639996529,-73.947716653347,Eastside Grocery,10128,10128,Upper East Side
+348,"1769 2nd Ave, New York, NY 10128",{'grocery'},40.78193,-73.94902,Key Food,10128,10128,Upper East Side
+349,"1748 2nd Ave, New York, NY 10128","{'delis', 'bagels', 'grocery'}",40.7810453753123,-73.9490480348468,Dawa 91,10128,10128,Upper East Side
+350,"1291 Madison Ave, New York, NY 10128","{'markets', 'grocery'}",40.7844887,-73.9559708,OK Fresh Fruit & Vegetable Market,10128,10128,Upper East Side
+351,"1211 Madison Ave, New York, NY 10128",{'grocery'},40.781601,-73.9578781,Morton Williams Supermarket,10128,10128,Upper East Side
+352,"1343 Lexington Ave, New York, NY 10128",{'grocery'},40.7815285,-73.9538932,Gristedes,10128,10128,Upper East Side
+353,"1486 Lexington Ave Frnt, New York, NY 10128","{'markets', 'delis', 'grocery'}",40.7855338283185,-73.9510796065413,Food Universe,10128,10128,Upper East Side
+354,"1407 Lexington Ave, New York, NY 10128",{'grocery'},40.78339,-73.9523926,Pioneer Supermarket,10128,10128,Upper East Side
+355,"202 E 96 St, New York, NY 10128","{'localservices', 'grocery'}",40.78491,-73.94915,Gristedes,10128,10128,Upper East Side
+356,"1616 3rd Ave, New York, NY 10128","{'delis', 'grocery', 'catering'}",40.7818794,-73.9519424,3rd Avenue Garden,10128,10128,Upper East Side
+357,"1797 1st Ave, New York, NY 10128","{'delis', 'grocery'}",40.7814612239599,-73.9460945874453,Honeydew Market,10128,10128,Upper East Side
+358,"1419 Lexington Ave, Manhattan, NY 10128",{'grocery'},40.7837008684874,-73.9524467289448,S M News & Grocery,10128,10128,Upper East Side
+359,"1672 York Ave, New York, NY 10128",{'grocery'},40.7770384,-73.9461451,Hansol Farm,10128,10128,Upper East Side
+360,"1307 Madison Ave, New York, NY 10128",{'grocery'},40.78498,-73.955482,Patrick Murphy Market,10128,10128,Upper East Side
+361,"1821 2nd Ave Frnt, New York, NY 10128",{'grocery'},40.783277,-73.948133,M & N Superette,10128,10128,Upper East Side
+362,"1810 2nd Ave, New York, NY 10128",{'grocery'},40.782585,-73.947891,T & Y Groceries,10128,10128,Upper East Side
+363,"17-34 2nd Ave, New York, NY 10128","{'grocery', 'convenience'}",40.7804866939695,-73.9495470013275,Hi-Fi News and Grocery,10128,10128,Upper East Side
+364,"1841 1st Ave, New York, NY 10128","{'delis', 'grocery'}",40.78276,-73.94531,Pam Deli Grocery,10128,10128,Upper East Side
+365,"1391 Madison Ave, Manhattan, NY 10029","{'grocery', 'convenience'}",40.787586,-73.953537,Lane Farm's Market,10029,10029,East Harlem
+366,"1245 Park Ave, New York, NY 10029","{'gourmet', 'grocery'}",40.7865639,-73.9521413,Gourmet Garage,10029,10029,East Harlem
+367,"1944 1st Ave, Manhattan, NY 10029","{'delis', 'grocery'}",40.786103,-73.9423764,Dave's Gourmet,10029,10029,East Harlem
+368,"141 East 96th St, New York, NY 10029",{'grocery'},40.78609,-73.95107,Fresh From the Farm,10029,10029,East Harlem
+369,"1968 2nd Ave, New York, NY 10029",{'grocery'},40.7874603271484,-73.9442672729492,Cherry Valley Marketplace,10029,10029,East Harlem
+370,"29 E 104th St, New York, NY 10029",{'grocery'},40.792671,-73.950752,29E Deli Grocery,10029,10029,East Harlem
+371,"1635 Lexington Ave, New York, NY 10029",{'grocery'},40.790458,-73.947235,Super Fi Emporium,10029,10029,East Harlem
+372,"153 E 103rd St, New York, NY 10029",{'grocery'},40.7903099060059,-73.9470901489258,Smashiess,10029,10029,East Harlem
+373,"1660 Madison Ave, New York, NY 10029",{'grocery'},40.796524,-73.9475632,NYC Fresh Market,10029,10029,East Harlem
+374,"160 E 110th St, New York, NY 10029",{'grocery'},40.79444,-73.94378,Key Food,10029,10029,East Harlem
+375,"160 E 110th St, Manhattan, NY 10029",{'grocery'},40.7943497,-73.9439087,Met Food Markets,10029,10029,East Harlem
+376,"1588 Madison Ave, New York, NY 10029",{'grocery'},40.7939670234919,-73.9493118971586,Uptown Supermarket,10029,10029,East Harlem
+377,"2175 2nd Ave, New York, NY 10029","{'delis', 'grocery', 'sandwiches'}",40.794283,-73.9399419,La Costenita Grocery,10029,10029,East Harlem
+378,"209 E 116th Street, New York, NY 10029",{'grocery'},40.7978,-73.93926,La Lomita Del Barrio Grocery,10029,10029,East Harlem
+379,"314 E 106th St, New York, NY 10029","{'grocery', 'fooddeliveryservices'}",40.789967,-73.941643,Monster Savings,10029,10029,East Harlem
+380,"148 E 103rd St, New York, NY 10029",{'grocery'},40.79017,-73.94759,S & H Grocery,10029,10029,East Harlem
+381,"1665 Madison Ave, New York, NY 10029","{'grocery', 'convenience'}",40.7966021494584,-73.9471918786646,Empire State Deli Grocery,10029,10029,East Harlem
+382,"1666 Madison Ave, New York, NY 10029",{'grocery'},40.7966150343418,-73.9473833888769,Pioneer,10029,10029,East Harlem
+383,"1718 Madison Ave, Manhattan, NY 10029",{'grocery'},40.7980423,-73.9464417,Fine Fare,10029,10029,East Harlem
+384,"1550 Madison Ave, New York, NY 10029","{'delis', 'grocery'}",40.79293,-73.950302,Madison Deli & Grocery,10029,10029,East Harlem
+385,"1775 Lexington Ave, New York, NY 10029",{'grocery'},40.794796,-73.944107,Jahens Grocery,10029,10029,East Harlem
+386,"2121 2nd Ave, New York, NY 10029","{'delis', 'grocery', 'convenience'}",40.79277,-73.941238,Anabelle Deli & Grocery,10029,10029,East Harlem
+387,"238 E 116th St, New York, NY 10029",{'grocery'},40.797061920166,-73.9386520385742,El Pueblo Mejicano,10029,10029,East Harlem
+388,"231 E 116th St, New York, NY 10029","{'latin', 'grocery'}",40.79765,-73.93858,Mildred Deli & Grocery,10029,10029,East Harlem
+389,"2135 1st Ave 110th St, New York, NY 10029","{'delis', 'grocery', 'sandwiches'}",40.792169,-73.93846,Blue Sky Deli Grocery Corp,10029,10029,East Harlem
+390,"1916 3rd Ave, New York, NY 10029","{'delis', 'grocery'}",40.791489,-73.945137,B.M. Deli & Grocery,10029,10029,East Harlem
+391,"2006 2nd Ave, New York, NY 10029",{'grocery'},40.788852,-73.943365,Mexican Grocery,10029,10029,East Harlem
+392,"2076 1st Ave, New York, NY 10029",{'grocery'},40.7904097,-73.9393023,Farm Country,10029,10029,East Harlem
+393,"1891 3rd Ave At 105th St, New York, NY 10029",{'grocery'},40.790554,-73.944946,Fine Fare Supermarket,10029,10029,East Harlem
+394,"235E 106th St, New York, NY 10029",{'grocery'},40.7912606745958,-73.9438167214394,City Fresh Market,10029,10029,East Harlem
+395,"697 Columbus Ave, New York, NY 10025","{'delis', 'grocery', 'sandwiches'}",40.7913309,-73.9684563,Mani Market Place,10025,10025,Upper West Side
+396,"2589 Broadway, New York, NY 10025",{'grocery'},40.7956707631568,-73.9712691307068,Westside Market,10025,10025,Upper West Side
+397,"808 Columbus Ave, New York, NY 10025","{'gourmet', 'coffee', 'grocery'}",40.7941465912758,-73.9669066497376,Whole Foods Market,10025,10025,Upper West Side
+398,"755 Amsterdam Ave, New York, NY 10025",{'grocery'},40.7944066,-73.9699115,Associated Supermarket,10025,10025,Upper West Side
+399,"262 W 96th St, New York, NY 10025",{'grocery'},40.7947452,-73.9724127,Gristedes,10025,10025,Upper West Side
+400,"661 Amsterdam Ave, New York, NY 10025",{'grocery'},40.791683,-73.971687,Seasons,10025,10025,Upper West Side
+401,"724 Columbus Ave, Manhattan, NY 10025",{'grocery'},40.7924193888903,-73.9679123461246,PS Deli and Grocery,10025,10025,Upper West Side
+402,"13 W 100th St, New York, NY 10025",{'grocery'},40.794678,-73.963348,Associated Supermarket,10025,10025,Upper West Side
+403,"692 Columbus Avenue, New York, NY 10025",{'grocery'},40.7914792,-73.9687437,Eretz Kosher Specialty Store,10025,10025,Upper West Side
+404,"214 W 96th St, Front 1, New York, NY 10025",{'grocery'},40.7943927725812,-73.9712979644537,Millennium Deli Grocery,10025,10025,Upper West Side
+405,"720 Amsterdam Ave, New York, NY 10025",{'grocery'},40.793601,-73.971076,95 Deli,10025,10025,Upper West Side
+406,"941 Columbus Ave, New York, NY 10025","{'delis', 'meats', 'grocery'}",40.79927,-73.962493,Freshy's Deli & Grocery,10025,10025,Upper West Side
+407,"2840 Broadway, New York, NY 10025","{'markets', 'meats', 'grocery'}",40.80426,-73.96613,Westside Market,10025,10025,Upper West Side
+408,"2780 Broadway, New York, NY 10025",{'grocery'},40.8021235584297,-73.9676583302424,Garden of Eden,10025,10025,Upper West Side
+409,"219 W 100th St, New York, NY 10025",{'grocery'},40.79714,-73.9694899,Las Palomas Mexican Grocery,10025,10025,Upper West Side
+410,"81 W 104th St, New York, NY 10025",{'grocery'},40.7978834,-73.9634202,Bravo Supermarket,10025,10025,Upper West Side
+411,"194 Manhattan Ave, New York, NY 10025","{'grocery', 'convenience'}",40.80004,-73.9603,194 Manhattan Superette,10025,10025,Upper West Side
+412,"990 Amsterdam Ave, New York, NY 10025",{'grocery'},40.80231,-73.96456,109 Spicy Gourmet Deli,10025,10025,Upper West Side
+413,"880 Amsterdam Ave, New York, NY 10025","{'delis', 'grocery'}",40.7987162,-73.9671649,A M H Deli & Grocery,10025,10025,Upper West Side
+414,"150 Manhattan Ave, New York, NY 10025",{'grocery'},40.799072,-73.96096,Juana Grocery,10025,10025,Upper West Side
+415,"300 West 110th St, New York, NY 10025","{'markets', 'delis', 'grocery'}",40.8008257860475,-73.959310074087,Central Markets,10025,10025,Upper West Side
+416,"2704 Broadway, New York, NY 10025",{'grocery'},40.7991997676586,-73.9682006835938,Gristedes,10025,10025,Upper West Side
+417,"987 Amsterdam Ave, New York, NY 10025","{'butcher', 'grocery', 'convenience'}",40.801898,-73.964241,Los Vecinos Market,10025,10025,Upper West Side
+418,"934 Columbus Ave, New York, NY 10025","{'burgers', 'delis', 'grocery'}",40.7992057800293,-73.9632415771484,Duke Ellington Gourmet Deli,10025,10025,Upper West Side
+419,"51 W 106th St, New York, NY 10025",{'grocery'},40.79886,-73.9616,The Corner Store Fruits Vegetables,10025,10025,Upper West Side
+420,"2828 Broadway, Manhattan, NY 10025",{'grocery'},40.803745,-73.966431,D'agostino Supermarket,10025,10025,Upper West Side
+421,"2892 Broadway, New York, NY 10025","{'delis', 'grocery'}",40.8056679,-73.965275,Milano Market,10025,10025,Upper West Side
+422,"2941 Broadway, New York, NY 10025",{'grocery'},40.8071667495526,-73.9642739295959,Morton Williams,10025,10025,Upper West Side
+423,"37-41 Lenox Ave, New York, NY 10026",{'grocery'},40.7993698,-73.9519043,Fine Fare Supermarket,10026,10026,Harlem
+424,"2051 8th Ave, Ste 111, New York, NY 10026",{'grocery'},40.801517,-73.957886,American Meat Market & Grocery,10026,10026,Harlem
+425,"352 W 116th St, New York, NY 10026",{'grocery'},40.8049774,-73.9570541,Hitham Supermarket,10026,10026,Harlem
+426,"111 W 110th St, Manhattan, NY 10026","{'delis', 'grocery'}",40.7985227555037,-73.952989205718,ANF Gourmet Deli and Grocery,10026,10026,Harlem
+427,"238 W 116th St, New York, NY 10026","{'grocery', 'convenience'}",40.80379,-73.95429,C-Town Supermarket,10026,10026,Harlem
+428,"251 West 116th St, New York, NY 10026",{'grocery'},40.8043523255068,-73.9545750617981,Adja Khady Food Distributors,10026,10026,Harlem
+429,"2187 Frederick Douglass Blvd, New York, NY 10026",{'grocery'},40.8061294,-73.9543032,Best Market,10026,10026,Harlem
+430,"136 Lenox Ave, New York, NY 10026",{'grocery'},40.8025386929512,-73.9491576701403,Fine Fare,10026,10026,Harlem
+431,"2328 12th Ave, New York, NY 10027","{'healthmarkets', 'grocery'}",40.8196402842641,-73.9594227545179,Fairway Market,10027,10027,Morningside Heights
+432,"1225 Amsterdam Ave, New York, NY 10027","{'delis', 'breakfast_brunch', 'grocery'}",40.8095332235098,-73.9590074121952,Apple Tree Supermarket,10027,10027,Morningside Heights
+433,"560 W 125th St, New York, NY 10027",{'grocery'},40.81465,-73.95762,C Town Supermarket,10027,10027,Morningside Heights
+434,"1316 Amsterdam Ave, New York, NY 10027",{'grocery'},40.81225,-73.95731,Met Foodmarket,10027,10027,Morningside Heights
+435,"218 St Nicholas Blvd, New York, NY 10027",{'grocery'},40.8073655,-73.9527185,Adnader Inc. Grocery,10027,10027,Morningside Heights
+436,"507 Manhattan Ave, New York, NY 10027","{'delis', 'grocery', 'convenience'}",40.8084297180176,-73.9546966552734,Mo Deli,10027,10027,Morningside Heights
+437,"1 Convent Ave, New York, NY 10027","{'delis', 'grocery'}",40.81287,-73.952896,Lara's Deli & Grocery Store,10027,10027,Morningside Heights
+438,"380 Lenox Ave, New York, NY 10027",{'grocery'},40.81045,-73.9432,Pioneer,10027,10027,Morningside Heights
+439,"55 W 125th St, New York, NY 10027",{'grocery'},40.8075256347656,-73.9441146850586,Remache Store,10027,10027,Morningside Heights
+440,"2395 Frederick Douglass B, New York, NY 10027",{'grocery'},40.812458,-73.949859,Bravo Supermarket,10027,10027,Morningside Heights
+441,"421 W 125th St, New York, NY 10027","{'breakfast_brunch', 'grocery', 'sandwiches'}",40.8120741,-73.9547296,Key Food,10027,10027,Morningside Heights
+442,"1349 Amsterdam Ave, New York, NY 10027",{'grocery'},40.8136087,-73.9558617,Yuca Mexican Products,10027,10027,Morningside Heights
+443,"2217 7th Ave, New York, NY 10027","{'delis', 'grocery'}",40.8128175884485,-73.945369720459,C Town Supermarket,10027,10027,Morningside Heights
+444,"2296 Frederick Douglass Boulevard, New York, NY 10027",{'grocery'},40.8090913295746,-73.9518921822309,Associated,10027,10027,Morningside Heights
+445,"501 W 125th St, New York, NY 10027",{'grocery'},40.8137969970703,-73.9562530517578,501 Grocery,10027,10027,Morningside Heights
+446,"25 St Nicholas Ter, New York, NY 10027","{'delis', 'grocery', 'convenience'}",40.8130964442213,-73.9518338441849,St Nicholas Express Deli,10027,10027,Morningside Heights
+447,"1453 Amsterdam Ave, New York, NY 10027",{'grocery'},40.8166800909972,-73.9534961432219,Bugambilias Bakery,10027,10027,Morningside Heights
+448,"New York, NY 10027","{'tobaccoshops', 'grocery'}",40.8129081726074,-73.9531936645508,Harlem Smoke Shop,10027,10027,Morningside Heights
+449,"10 E 125th St, New York, NY 10035",{'grocery'},40.8061697334051,-73.9417534321547,Wild Olive Market,10035,10035,East Harlem
+450,"517 E 117th St, New York, NY 10035",{'grocery'},40.7954025268555,-73.931396484375,Aldi,10035,10035,East Harlem
+451,"2212 3rd Ave, New York, NY 10035",{'grocery'},40.801048,-73.938163,Associated Supermarket,10035,10035,East Harlem
+452,"2210 5th Ave, New York, NY 10035",{'grocery'},40.811975859101,-73.9382677155381,Golden Deli Grocery,10035,10035,East Harlem
+453,"2336 1st Avenue, New York, NY 10035",{'grocery'},40.798339,-73.933296,J & D Deli Grocery,10035,10035,East Harlem
+454,"2330 1st Avenue, New York, NY 10035",{'grocery'},40.798179,-73.93341,Fine Fare,10035,10035,East Harlem
+455,"315 Pleasant Ave, New York, NY 10035",{'grocery'},40.7956999,-73.93291,Carolina Grocery,10035,10035,East Harlem
+456,"2301 1st Ave Frnt, New York, NY 10035",{'grocery'},40.7975729462795,-73.93438042455,MGM Deli Grocery,10035,10035,East Harlem
+457,"2295 1st Ave, New York, NY 10035",{'grocery'},40.7973572012604,-73.9342551958542,TPR Deli Grocery,10035,10035,East Harlem
+458,"2266 1st Ave Frnt, New York, NY 10035",{'grocery'},40.796226,-73.934852,Zaragoza Dely Grocery,10035,10035,East Harlem
+459,"3478 Broadway, New York, NY 10031","{'organic_stores', 'grocery'}",40.8243179437712,-73.9516631886363,West Broadway Natural,10031,10031,Harlem
+460,"756 St Nicholas Ave, New York, NY 10031",{'grocery'},40.825866,-73.942955,Foodtown,10031,10031,Harlem
+461,"3320 Broadway, New York, NY 10031",{'grocery'},40.819583,-73.954963,C Town,10031,10031,Harlem
+462,"530 W 136th St, Manhattan, NY 10031","{'delis', 'mexican', 'grocery'}",40.82033,-73.95378,Chinelos II,10031,10031,Harlem
+463,"1514 Amsterdam Ave, New York, NY 10031",{'grocery'},40.8187943,-73.9524841,Diamond Touch Deli,10031,10031,Harlem
+464,"538 W 138th St, New York, NY 10031",{'grocery'},40.8215139806271,-73.9525982737541,Food Universe,10031,10031,Harlem
+465,"3557 Broadway, New York, NY 10031","{'markets', 'grocery'}",40.8269832454735,-73.950351297955,Fruits & Vegetable Pelaez,10031,10031,Harlem
+466,"3344 Broadway, New York, NY 10031","{'seafoodmarkets', 'grocery'}",40.8202188,-73.9546562,Manhattan Fish Market,10031,10031,Harlem
+467,"3550 Broadway, NewYork, NY 10031",{'grocery'},40.82671,-73.949726,Keyfood,10031,10031,Harlem
+468,"538 W 138th St, Manhattan, NY 10031",{'grocery'},40.8215139806271,-73.9525982737541,Compare Foods,10031,10031,Harlem
+469,"748 St. Nicholas Ave, New York, NY 10031","{'grocery', 'convenience'}",40.82542,-73.943336,Dubais Food,10031,10031,Harlem
+470,"3544 Broadway, New York, NY 10031",{'grocery'},40.8267687341604,-73.9501296608344,Key Food Fresh,10031,10031,Harlem
+471,"3484 Broadway, Manhattan, NY 10031",{'grocery'},40.82462,-73.95145,3484 Broadway Mini Market,10031,10031,Harlem
+472,"505 W 141st St, New York, NY 10031","{'delis', 'grocery'}",40.824237,-73.9529136,Katerine Deli Grocery,10031,10031,Harlem
+473,"1536 Amsterdam Ave, New York, NY 10031",{'grocery'},40.819591,-73.95214,Suail Deli & Grocery,10031,10031,Harlem
+474,"3461 Broadway, New York, NY 10031",{'grocery'},40.82423,-73.952537,Super Value Meat Market,10031,10031,Harlem
+475,"543 W 138th St, New York, NY 10031",{'grocery'},40.82191,-73.95313,Popular Supermarket,10031,10031,Harlem
+476,"3632 Broadway, New York, NY 10031",{'grocery'},40.8292451,-73.9478812,C-Town Supermarket,10031,10031,Harlem
+477,"3605 Broadway, Manhattan, NY 10031",{'grocery'},40.828785,-73.949242,Papasito Food Markets,10031,10031,Harlem
+478,"3569 Broadway, New York, NY 10031",{'grocery'},40.8273400084952,-73.9500071598462,El Amarillo Deli Grocery,10031,10031,Harlem
+479,"600 W 160th St, New York, NY 10032","{'kosher', 'delis', 'grocery'}",40.8359791338444,-73.9437671005726,Foodtown,10032,10032,Washington Heights
+480,"3905 Broadway, New York, NY 10032","{'delis', 'grocery'}",40.83817,-73.94221,Columbia Gourmet Deli,10032,10032,Washington Heights
+481,"1016 St Nicholas Ave, New York, NY 10032",{'grocery'},40.835072,-73.9394,C-Town Supermarket,10032,10032,Washington Heights
+482,"553 W 157th St, New York, NY 10032",{'grocery'},40.8335876,-73.9433975,553 La Mina Super Market,10032,10032,Washington Heights
+483,"3871 Broadway, New York, NY 10032",{'grocery'},40.8369695395231,-73.9429228752851,Associated Supermarket,10032,10032,Washington Heights
+484,"4037 Broadway, New York, NY 10032",{'grocery'},40.84231,-73.93946,Gristedes,10032,10032,Washington Heights
+485,"3900 Broadway, Corner of 163rd St, New York, NY 10032",{'grocery'},40.83783,-73.941605,Liberato Food Inc,10032,10032,Washington Heights
+486,"3878 Broadway, New York, NY 10032",{'grocery'},40.83699837327,-73.9425352960825,3868 Ts Grocery,10032,10032,Washington Heights
+487,"1016 Saint Nicholas Ave, New York, NY 10032",{'grocery'},40.8350716,-73.9394073,C Town Supermarket,10032,10032,Washington Heights
+488,"448 Malcolm X Blvd, New York, NY 10037",{'grocery'},40.812361612916,-73.9419874548912,Associated Supermarket,10037,10037,Harlem
+489,"592 Lenox Ave, New York, NY 10037",{'grocery'},40.817028736784,-73.9384629376477,Key Food,10037,10037,Harlem
+490,"2289 5th Avenue, New York, NY 10037",{'grocery'},40.81491,-73.93578,5 Avenue Gourmet Deli,10037,10037,Harlem
+491,"24 W 135th St, New York, NY 10037",{'grocery'},40.8130989074707,-73.9391937255859,Fine Fare Supermarket,10037,10037,Harlem
+492,"2159 5th Ave, New York, NY 10037",{'grocery'},40.810596,-73.938789,Lincoln Deli Grocery,10037,10037,Harlem
+493,"300 West 145th Street, New York, NY 10039",{'grocery'},40.8227855215011,-73.9423666521907,Super Foodtown of Bradhurst,10039,10039,Harlem
+494,"335-399 W 155th St, New York, NY 10039",{'grocery'},40.8292993273944,-73.9372821175598,Fine Fare Supermarkets,10039,10039,Harlem
+495,"2927 Frederick Douglass B, New York, NY 10039",{'grocery'},40.8299845,-73.9368272,2927 8 Av Corporation,10039,10039,Harlem
+496,"300 W 135Th St, New York, NY 10030","{'cosmetics', 'convenience', 'grocery', 'drugstores'}",40.81656,-73.94716,Duane Reade,10030,10030,Harlem
+497,"2497 7th Ave, New York, NY 10030",{'grocery'},40.8214100450277,-73.9390859752893,Fine Fare,10030,10030,Harlem
+498,"2497 Adam Clayton Powell Jr Blvd, New York, NY 10030",{'grocery'},40.8231202950011,-73.9377250865054,Pioneer Supermarket,10030,10030,Harlem
+499,"2444 Adm Clytn Pwll Jr, New York, NY 10030","{'markets', 'grocery'}",40.8182793,-73.9427414,Fine Fare Supermarket,10030,10030,Harlem
+500,"4161 Broadway, New York, NY 10033","{'meats', 'seafoodmarkets', 'grocery'}",40.847175,-73.938529,La Rosa Foods,10033,10033,Washington Heights
+501,"804 W 181st St, New York, NY 10033",{'grocery'},40.8510045733877,-73.9385998249054,Jin's Superette,10033,10033,Washington Heights
+502,"4311 Broadway, New York, NY 10033",{'grocery'},40.852046,-73.935173,Q Mart,10033,10033,Washington Heights
+503,"4138 Broadway, New York, NY 10033",{'grocery'},40.8460561931133,-73.9384221285582,Bravo Supermarket,10033,10033,Washington Heights
+504,"801 W 181st St, New York, NY 10033",{'grocery'},40.85112,-73.93854,Moscow On The Hudson,10033,10033,Washington Heights
+505,"1314 St. Nicholas Ave, New York, NY 10033",{'grocery'},40.845825,-73.935882,C-Town Supermarket,10033,10033,Washington Heights
+506,"758 W 181st St, New York, NY 10033",{'grocery'},40.8507239073515,-73.9377897977829,Smile Deli,10033,10033,Washington Heights
+507,"4119 Broadway, New York, NY 10033","{'breakfast_brunch', 'grocery'}",40.8456028,-73.9387885,Ideal Mini Mart,10033,10033,Washington Heights
+508,"717 W 181st Street, New York, NY 10033",{'grocery'},40.8505249,-73.9364062,Tejada Grocery,10033,10033,Washington Heights
+509,"4261 Broadway, New York, NY 10033",{'grocery'},40.850601,-73.935974,Bravo Supermarket,10033,10033,Washington Heights
+510,"592 Fort Washington Ave, New York, NY 10033",{'grocery'},40.85489,-73.93664,Associated Supermarket,10033,10033,Washington Heights
+511,"4365 Broadway, New York, NY 10033",{'grocery'},40.853984,-73.934181,Key Food,10033,10033,Washington Heights
+512,"1406 St Nicholas Ave, New York, NY 10033","{'markets', 'grocery'}",40.8488624542952,-73.9339998364449,La Placita De Washington Heights,10033,10033,Washington Heights
+513,"589 Fort Washington Ave, New York, NY 10033",{'grocery'},40.8548118,-73.9371565,Fort Tryon Deli,10033,10033,Washington Heights
+514,"1331 Saint Nicholas Ave, New York, NY 10033",{'grocery'},40.846675,-73.936088,Bravo Supermarket,10033,10033,Washington Heights
+515,"807 W 187th St, New York, NY 10040",{'grocery'},40.8553336078126,-73.9372410623623,Franks Gourmet Market,10040,10040,Washington Heights
+516,"1617 St Nicholas Ave, New York, NY 10040",{'grocery'},40.8554157614708,-73.9293421804905,Fine Fare Supermarket,10040,10040,Washington Heights
+517,"1613 Saint Nicholas Ave, New York, NY 10040",{'grocery'},40.855434,-73.929649,M A Grocery,10040,10040,Washington Heights
+518,"4520 Broadway, New York, NY 10040",{'grocery'},40.858383,-73.931367,Hillside Deli Grocery Halal Food,10040,10040,Washington Heights
+519,"7 Hillside Ave, New York, NY 10040",{'grocery'},40.8589211,-73.9309616,Hillside Supermarket,10040,10040,Washington Heights
+520,"206 Dyckman St., New York, NY 10040","{'mexican', 'importedfood', 'grocery'}",40.8649972,-73.9271007,Acapulco Deli & Grocery,10040,10040,Washington Heights
+521,"72 Nagle Ave, New York, NY 10040",{'grocery'},40.8603414,-73.9285254,Food Universe,10040,10040,Washington Heights
+522,"95 Cooper St, New York, NY 10034",{'grocery'},40.868694,-73.921253,Inwood Gourmet,10034,10034,Inwood
+523,"4918 Broadway, New York, NY 10034","{'coffee', 'grocery'}",40.867370799459,-73.921704344788,C-Town Supermarket,10034,10034,Inwood
+524,"4776 Broadway, New York, NY 10034",{'grocery'},40.8657265,-73.9262695,Fine Fare Supermarket,10034,10034,Inwood
+525,"571 W 207th St, New York, NY 10034",{'grocery'},40.8665695,-73.9202957,Acapulco Grocery,10034,10034,Inwood
+526,"670 Academy Street, New York, NY 10034",{'grocery'},40.8666,-73.92536,My Deli Grocery,10034,10034,Inwood
+527,"96 Sherman Avenue, New York, NY 10034",{'grocery'},40.8640895,-73.9255557,Dan's Supermarket #2,10034,10034,Inwood
+528,"242 Sherman Ave, New York, NY 10034",{'grocery'},40.8661613,-73.9193954,New Generation Grocery Store,10034,10034,Inwood
+529,"572 W 207th St, New York, NY 10034",{'grocery'},40.8665,-73.92066,La Antillana,10034,10034,Inwood
+530,"635 W 207th St, New York, NY 10034",{'grocery'},40.8683586,-73.9214554,Inwood Food Center,10034,10034,Inwood
