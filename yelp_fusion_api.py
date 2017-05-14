@@ -8,6 +8,7 @@ https://github.com/Yelp/yelp-fusion/tree/master/fusion/python
 import requests
 import numpy as np
 import config
+import logging
 import time
 from urllib.parse import quote
 from urllib.parse import urlencode
@@ -117,5 +118,6 @@ def emit_all(bearer_token, zipcodes,
              results_per_page=50, delay=1):
     """Generator for all Yelp results for a search in all zipcodes."""
     for zipcode in zipcodes:
+        logging.info('Processing info for zip code {}'.format(zipcode))
         yield from emit_all_by_zipcode(bearer_token, zipcode, term,
                                        max_results, results_per_page, delay)

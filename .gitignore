@@ -3,6 +3,15 @@ config.py
 *.csv
 *.txt
 *.tsv
+*.xml
+*.cpg
+*.png
+*.dbf
+*.prj
+*.shp
+*.shx
+.DS_Store
+*.pptx
 .ipynb_checkpoints/*
 *.pyc
 *.ipynb

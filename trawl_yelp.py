@@ -3,6 +3,12 @@
 import yelp_fusion_api as yfa
 import dataset_loader as dl
 import pandas as pd
+import numpy as np
+import logging
+
+LOGGING_FILE_NAME = 'trawl_yelp.log'
+logging.basicConfig(filename=LOGGING_FILE_NAME,
+                    level=logging.DEBUG)
 
 
 def emit_business_data(json):
@@ -10,7 +16,7 @@ def emit_business_data(json):
     for business_dict in json['businesses']:
         loc = business_dict['location']
         address = ', '.join(loc['display_address'])
-        zipcode = int(loc['zip_code'])
+        zipcode = int(loc['zip_code']) if loc['zip_code'] else np.nan
         name = business_dict['name']
         coords = business_dict['coordinates']
         lat, lon = coords['latitude'], coords['longitude']
@@ -58,7 +64,7 @@ def cleanup(df_yelp):
     df = df[good_idx]
 
     # eliminate stores with no zipcode
-    bad_idx = (df['Zip Code'] == '') | df['Zip Code'].isnull()
+    bad_idx = df['Zip Code'].isnull()
     df = df[~bad_idx]
 
     # eliminate zip codes outside of manhattan
