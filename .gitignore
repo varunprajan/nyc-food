@@ -1,8 +1,11 @@
 *.yaml
 config.py
 *.csv
+!df_yelp_cleaned_up.csv
+!census_data.csv
 *.txt
 *.tsv
+!manhattan_zip_codes.tsv
 *.xml
 *.cpg
 *.png
